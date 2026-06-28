@@ -1,5 +1,5 @@
 (function() {
-  const API_BASE = 'https://test-re-abi0.onrender.com';
+  const API_BASE = 'https://vibe-coding-bmi.onrender.com/';
   let authTab = 'login';
   let currentUser = null;
 
